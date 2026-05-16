@@ -1,5 +1,6 @@
 ### Hi, I'm Fed 👋
 Production Manager at [Midnight Oil Drinks](https://www.midnightoildrinks.com/) in London, running operations at an award-winning specialty coffee drinks producer, sister company of Climpson & Sons. Transitioning into tech with a focus on backend engineering and data. 
+
 Liceo Scientifico background; learning Python, AWS, and software engineering practices in my spare time.
 
 ### Selected projects
