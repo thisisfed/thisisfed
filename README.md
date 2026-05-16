@@ -29,4 +29,5 @@ engineering practices in my spare time.
 Working on the trading bot, studying for AWS Cloud Practitioner, and
 applying to UK tech degree apprenticeships for 2027.
 
-📫 [thisisfed.xyz](http://thisisfed.xyz) · [ciao@thisisfed.xyz](mailto:ciao@thisisfed.xyz)
+🌐  [thisisfed.xyz](http://thisisfed.xyz)
+📧  [ciao@thisisfed.xyz](mailto:ciao@thisisfed.xyz)
